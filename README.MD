@@ -3,7 +3,7 @@
 ## Descripción
 El siguiente código permite la creación de un grafo e incluye una clase grafo a través de la cual es posible crearlo, encontrar el vértice mayormente alcanzable, junto con la cantidad de caminos para llegar a este.
 
-![Grafo de ejemplo](https://github.com/juanpa315/grafo-python/blob/main/grafo.py)
+![Grafo de ejemplo](https://github.com/juanpa315/grafo-python/blob/main/grafo-img.png)
 
 Requisitos
 
